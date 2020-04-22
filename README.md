@@ -115,7 +115,7 @@ One of the most challenging parts of their roles is within the programming side 
 <div>
   
   <b> <h2> Project Ideas </h2> </b>
-    <center> <h4> Scholar </center> </h4>
+  <center> <h4> Scholar </h4> </center>
   <body>
   Scholar is Australia’s online tutorial community, bridging the worlds of students and educators.  Whether an individual is a qualified teacher, a mentor, a corporate executive, or even a knowledge-sharing enthusiast, this would be a hub to gain access to a plethora of education-seeking individuals. The idea behind Scholar is to connect all educators to a platform that has students seeking help regarding tuition, assignments, or simple homework help; all via a mobile application on iOS and Android.
 
