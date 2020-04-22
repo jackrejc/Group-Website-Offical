@@ -266,8 +266,6 @@ As these bots are smart enough to take on complex language, they are also able t
   </center>
   Above shows an increasing revenue and high demand for Cloud based service across all platform foundations.
   
-  
-<h2> <b> Cybersecurity </b> </h2>
 
 <div>
 
@@ -294,7 +292,7 @@ Currently, Microsoft Azure, AWS (Amazon web services) and Google Cloud are utili
 Companies like these have always been at the forefront of keeping their digital protection at the highest possible due to customer reputation and keeping other businesses safe as the main cloud platforms used are either with Microsoft, Apple, and Google.
 
   
-  <h4> <b> What is the likely impact? What is the potential impact of this development? What is likely to change? Which people will be most affected and how? Will this create, replace or make redundant any current jobs or technologies? </h4> </b>
+  <h4> <b> What is the likely impact? What is the potential impact of this development? What is likely to change? Which people will be most affected and how? Will this create, replace or make redundant any current jobs or technologies? </b> </h4>
   <div>
  
  In the next few years these methods of analysing data will also be more labor, time and cost effective and will seem more attractive to those bigger businesses who deal with a lot of customer digital assets. What may happen with businesses is that taking advantage and keeping informed of the dangers of hackers and malicious attackers will help improve the digital ecosystem by practising better methods and keeping cloud related data safe. 
@@ -306,7 +304,7 @@ A more online presence will keep businesses up to date and more informed of pote
 
   </div>
   
-  <h4> <b> How will this affect you? In your daily life, how will this affect you? What will be different for you? How might this affect members of your family or your friends? </h4> </b>
+  <h4> <b> How will this affect you? In your daily life, how will this affect you? What will be different for you? How might this affect members of your family or your friends? </b> </h4> 
   <div>
   
   This is very important for anyone who is using any kind of personal private data stored on any kind of cloud based server. As hackers and malicious attackers know that the majority of people using clouds to store personal photos, media and documentation as well as banking, it becomes clear that the need to attack these clouds for any kind of personal data for financial gain becomes an extremely important issue regarding the security of one's information.
