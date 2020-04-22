@@ -242,7 +242,7 @@ This may also save time for family members if they communicate to a smart bot an
 
 As these bots are smart enough to take on complex language, they are also able to relay the information back in a timely manner and give intelligent hyperlinks for customers to follow through with, text and talk with a bot will solve time, put their lives at ease and will continue to do so as long as the need for cloud based services like these are in high demand just to continue to live an easier life.
 <center>
-<img src="https://user-images.githubusercontent.com/62319092/79950481-77fbde00-84ba-11ea-98fc-6c46fec5c347.png" alt="Image" height="450" width="350" class="GeneratedImage">
+<img src="https://user-images.githubusercontent.com/62319092/79950481-77fbde00-84ba-11ea-98fc-6c46fec5c347.png" alt="Image" height="450" width="450" class="GeneratedImage">
   </center>
   Above shows an increasing revenue and high demand for Cloud based service across all platform foundations.
   
