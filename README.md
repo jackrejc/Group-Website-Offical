@@ -5,7 +5,7 @@
   </h1>
   </center>
   <body>
-          Below you can see the test result of each member
+          
   </body>
           <h4> Edward </h4>
     <div>
@@ -17,6 +17,15 @@
    <img src="https://user-images.githubusercontent.com/62319092/79944477-f0f53880-84ae-11ea-8954-92f9e2c57bc5.png" alt="Image" height="350" width="425" class="GeneratedImage">
 </center>
   
+ <h3> Jack </h3>
+ 
+ <img src="https://user-images.githubusercontent.com/62319092/79971623-e733fb00-84d7-11ea-857e-7c40787c1794.PNG" alt="Image" height="325" width="300" class="GeneratedImage">
+ 
+ <img src="https://user-images.githubusercontent.com/62319092/79971630-e8fdbe80-84d7-11ea-8466-95ab33c395be.PNG" alt="Image" height="325" width="300" class="GeneratedImage">
+ 
+ 
+ 
+ 
   
   <h2>
   <b> Personal Profiles </b>
@@ -347,8 +356,14 @@ With most ideas, there are flaws manifesting throughout the duration of a projec
   <h4> Edward </h4> 
   <body> 
   Jack – Completed the website well and it was easy to connect with Jack. He did not exactly choose his part, as it was the only part left; but, he took his part and delivered well.
+  
+  <div>
 
 Esther – Once having joined the group, Esther quickly took on her task and completed it promptly. Worked well and was responsive.
+
+
+</div>
+
 
 James – Delivered a great amount of work and quality work quickly. Worked well as a team member and helped with the organisation of the assignment.
 
@@ -359,10 +374,6 @@ Esther – Esther joined the discord around the same time as me, he quickly took
 
 James – Delivered a sizeable amount of work, which was of the highest quality. He worked very well not only as himself but a team member, providing help to others and pushing for finished work.
 
-
-<h4> James </h4>
-
-<h4> Despina </h4>
 
 </body>
 
