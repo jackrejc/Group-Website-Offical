@@ -1,11 +1,11 @@
 <html>
   <center>
   <h1>
-  Team Proflie
+         Team Proflie
   </h1>
   </center>
   <body>
-  Input Text here
+  Input Text here ![](images/James1.png)
   </body>
   
   <h2>
