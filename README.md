@@ -15,7 +15,7 @@
    
    <img src="https://user-images.githubusercontent.com/62319092/79944477-f0f53880-84ae-11ea-8954-92f9e2c57bc5.png" alt="Image" height="300" width="300" class="GeneratedImage">
 
-  </body>
+  
   
   <h2>
   <b> Personal Profiles </b>
@@ -62,9 +62,9 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
   
   <div>
   
-  <h3>
+  <h2>
   Industry Data
-  </h3>
+  </h2>
   
   <body>
   
@@ -72,19 +72,31 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
   
   <div>
   
-  <h3>
+  <h2>
   IT Work
-  </h3>
+  </h2>
     
    <body>
+  <b> <h3> What kind of work is done by the IT professional? </h3> </b>
+  An IT professional completes an array of tasks all requiring different methods and software choices. IT work involves knowing a plethora of programming languages that relate to various softwares. For example, Oracle, SQL and C++ may be the languages needed for one role. The work completed daily involves interconnecting job roles well in order to achieve a common objective as a team. Projects are created and must be complete as a team in order to go live by the due date without errors. Working together is definitely one of the most vital part of IT work. 
+  
+  <b> <h3> What kinds of people does the IT professional interact with? Are they IT professionals? </b> </h3>
+  There are various people interacting with IT professionals. Most importantly, the team leader. However, there are instances that involve working with finance teams and marketing teams in order to help achieve a common objective for the company. It is important to be able to interact with all departments as computers and softwares are used non stop to run a company.
+  
+<b> <h3>  Where does the IT professional spend most of their time? </b> </h3>
+
+<b> <h3> What aspect of their position is most challenging? </b> </h3>
+One of the most challenging parts of their roles is within the programming side of work. In particular, the errors. When code is written incorrectly, the error comes up at launch – when you run the code. Therefore, you are looking for the error and it is rigorous work to be able to find some buried within thousands of lines of code.
+    
+    
     
    </body>
   
   <div>
   
-  <h3>
+  <h2>
   IT Technologies
-  </h3>
+  </h2>
   
   <body>
   
