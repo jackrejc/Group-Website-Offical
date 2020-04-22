@@ -1,4 +1,13 @@
 <html>
+  <center>
+  <h1>
+  Team Proflie
+  </h1>
+  </center>
+  <body>
+  Input Text here
+  </body>
+  
   <h2>
   Personal Profiles
   </h2> 
@@ -19,16 +28,6 @@
 </body>
 
 <div>
-  
-  <h2>
-  Team Proflie
-  </h2>
-  
-  <body>
-  Input Text here
-  </body>
-  
-  <div>
   
 
   <h2> 
