@@ -5,7 +5,7 @@
   </h1>
   </center>
   <body>
-  Input Text here  <img src="https://user-images.githubusercontent.com/62319092/79941956-049da080-84a9-11ea-9964-308b99f1ba69.png" alt="Image" height="42" width="42">
+  Input Text here  <img src="https://user-images.githubusercontent.com/62319092/79941956-049da080-84a9-11ea-9964-308b99f1ba69.png" alt="Image" height="200" width="200">
   </body>
   
   <h2>
