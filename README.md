@@ -1,7 +1,4 @@
 <html>
-  
-  <h1> <b> <center> Hello Parents </center> </b> </h1>
-  
   <center>
   <h1>
          Team Proflie
@@ -27,7 +24,7 @@
  <img src="https://user-images.githubusercontent.com/62319092/79971630-e8fdbe80-84d7-11ea-8466-95ab33c395be.PNG" alt="Image" height="325" width="385" class="GeneratedImage">
  
  <body>
-  Above are the test results from both Jack and Edward
+  Above are the test results from both Jack and Edward. They show fairly similar characterisitcs towards their personalities. This could suggest that the two have serveral things in common and/or have expereced similar childhoods. Although differences can be seen in there nature, and their ability to cope with emotions. In a group sense where these two individuals are together could mean a better collaboration and overall higher grades.
  
  
  
