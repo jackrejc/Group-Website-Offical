@@ -70,6 +70,7 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
   Industry Data
   </h2>
   <h3> <b> Cyber Security </h3> </b>
+  <div>
   <body>
   There has always been a demand for security due to the ever growing I.T. industry. Every company that has an information system has always some form of security in place. Whether it is small business with basic Antivirus software in place of a few machines, or larger companies that have small and large teams looking after databases, customer personal information stored on servers. The security of looking after this information is continuously growing as more and more businesses are aware of the importance of keeping data safe from invasive people. 
 
@@ -82,7 +83,7 @@ The below graph shows the increasing market size in the U.S. for cyber security 
   </center>
     
   
-  
+  </div>
  <h3> Cryptographer </h3>
  Cryptographers secure computer and information technology systems by constructing algorithms and ciphers to encrypt data. They analyse data, test theories and check for vulnerabilities in information systems.  
 While the demand for this profession is growing, the demand for this job is very high to those who are extremely experienced.
@@ -362,7 +363,26 @@ James – Delivered a sizeable amount of work, which was of the highest quality.
 <h4> Despina </h4>
 
 </body>
-  
+
+<h3> Group Reflection </h3> 
+
+<h4>What went well </h4>
+<div>
+   Communication  and reflecting ideas to one another. I was sharing a lot of information previously with Edward in my team and Edward was helpful and gave very good insights to the work that was needing to be done. We used Discord and found it easy to use and communicate information effectively for us to complete tasks.
+
+</div>
+<h4>What could be improved </h4>
+ The constant communication could be improved. We all have jobs and are on different times during the day and sometimes it was hard to bring about an idea or ask questions.
+
+
+<div>
+<h4>At least one thing that was surprising </h4>
+I had thought that It would be easy to communicate as a team however as we are always online at different times to exchange ideas and reflect on ideas it was always a challenge, 
+
+</div>
+<h4>At least one thing that you have learned about groups </h4>
+  I enjoyed working in this group and we all had a very even amount of workload and the ideas shared brought us together on the same page on a lot of topics. 
+
   
   
 
