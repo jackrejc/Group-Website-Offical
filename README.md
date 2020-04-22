@@ -258,7 +258,7 @@ As these bots are smart enough to take on complex language, they are also able t
   Above shows an increasing revenue and high demand for Cloud based service across all platform foundations.
   
   
-<h2> <b> Cybersecurity </h2> </b>
+<h2> <b> Cybersecurity </b> </h2>
 
 <div>
 
