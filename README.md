@@ -9,11 +9,11 @@
   </body>
           <h4> James </h4>
     <div>
-    <img src="https://user-images.githubusercontent.com/62319092/79943429-37956380-84ac-11ea-9804-3dc8028268a0.png" alt="Image" height="280" width="425" class="GeneratedImage">
+    <img src="https://user-images.githubusercontent.com/62319092/79943429-37956380-84ac-11ea-9804-3dc8028268a0.png" alt="Image" height="280" width="350" class="GeneratedImage">
     
- <img src="https://user-images.githubusercontent.com/62319092/79943669-c30ef480-84ac-11ea-9ebe-6aa0e68a7ff1.png" alt="Image" height="280" width="425" class="GeneratedImage">
+ <img src="https://user-images.githubusercontent.com/62319092/79943669-c30ef480-84ac-11ea-9ebe-6aa0e68a7ff1.png" alt="Image" height="280" width="350" class="GeneratedImage">
    
-   <img src="https://user-images.githubusercontent.com/62319092/79944477-f0f53880-84ae-11ea-8954-92f9e2c57bc5.png" alt="Image" height="350" width="800" class="GeneratedImage">
+   <img src="https://user-images.githubusercontent.com/62319092/79944477-f0f53880-84ae-11ea-8954-92f9e2c57bc5.png" alt="Image" height="350" width="425" class="GeneratedImage">
 
   
   
@@ -118,16 +118,22 @@ One of the most challenging parts of their roles is within the programming side 
   <center> <h4> Scholar </h4> </center>
   <body>
   Scholar is Australia’s online tutorial community, bridging the worlds of students and educators.  Whether an individual is a qualified teacher, a mentor, a corporate executive, or even a knowledge-sharing enthusiast, this would be a hub to gain access to a plethora of education-seeking individuals. The idea behind Scholar is to connect all educators to a platform that has students seeking help regarding tuition, assignments, or simple homework help; all via a mobile application on iOS and Android.
+  
 
 The service will have a list of features available for use. Most importantly, the ability to connect with any educator across your respective country that is qualified to teach the subject an individual is seeking help for. Using mobile application technologies, the app will allow a student to upload documents they find confusing or ones that require more thorough understanding, and discuss this with an online educator. The educator will be able to respond to the questions initiated. This will provide a platform for educators to make more money, and students to instantly connect to help; as opposed to paying for expensive tuition lessons and the hassle of organising and waiting for the tutor to have an availability. 
 
+
 Furthermore, the app will be designed to support video conferencing where an educator can set-up scheduled sessions regarding specific topics whereby multiple individuals can enter the session and receive additional learning. 
+
 
 Another useful feature is the ability to split questions for a student that needs to save more off this service. This may be by splitting the cost of a question two students within the same class have, to which their current teacher is not helpful enough to them, and the cost of a tutor is too expensive.
 
-Regarding the educator, they will have been confirmed qualified for certain areas and topics of education. They will receive notifications for any direct questions sent to them, as well as general public questions that have not been directly sent. This is a time-saving and effective way for educators to earn extra money, whilst sitting at home. The ability to not commute is efficient. 
+
+Regarding the educator, they will have been confirmed qualified for certain areas and topics of education. They will receive notifications for any direct questions sent to them, as well as general public questions that have not been directly sent. This is a time-saving and effective way for educators to earn extra money, whilst sitting at home. The ability to not commute is efficient.
+
 
 With most ideas, there are flaws manifesting throughout the duration of a project. I believe a particular issue may be seen with miscommunication. The ability to hear, see and observe a physical tuition is extremely helpful; whereas the online tuition will struggle to fulfil the same effectiveness of communication. It is difficult to achieve the same level of help as the physical version.
+
 
   
   
@@ -135,6 +141,11 @@ With most ideas, there are flaws manifesting throughout the duration of a projec
   
   
   </body>
+  
+  
+  <h3>Feedback</h3>
+  
+  
   
 
   
