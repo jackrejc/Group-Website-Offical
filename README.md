@@ -79,8 +79,27 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
 Cyber Security is in a high demand as businesses are understanding the importance of keeping digital data safe.
 
 The below graph shows the increasing market size in the U.S. for cyber security for now and beyond. Cloud based and network security is always in high demand as the number of users of cloud based services are increasing due to the ease of the service and high security in storing data on a cloud.
+<div>
+  <center>
+<img src="https://user-images.githubusercontent.com/62319092/79947114-b7bfc700-84b4-11ea-9327-409fa04abf88.PNG" alt="Image" height="325" width="650" class="GeneratedImage">
+    
+  </div>
+  
+ <h3> Cryptographer </h3>
+ Cryptographers secure computer and information technology systems by constructing algorithms and ciphers to encrypt data. They analyse data, test theories and check for vulnerabilities in information systems.  
+While the demand for this profession is growing, the demand for this job is very high to those who are extremely experienced.
 
-<img src="https://user-images.githubusercontent.com/62319092/79947114-b7bfc700-84b4-11ea-9327-409fa04abf88.PNG" alt="Image" height="350" width="600" class="GeneratedImage">
+
+<div>
+<img src="https://user-images.githubusercontent.com/62319092/79947355-2ef55b00-84b5-11ea-9962-52fdcb445d28.png" alt="Image" height="325" width="650" class="GeneratedImage">
+    
+    
+    
+    
+    
+    
+    
+    
   </body>
   
   <div>
