@@ -22,12 +22,12 @@
  <img src="https://user-images.githubusercontent.com/62319092/79971623-e733fb00-84d7-11ea-857e-7c40787c1794.PNG" alt="Image" height="325" width="385" class="GeneratedImage">
  
  <img src="https://user-images.githubusercontent.com/62319092/79971630-e8fdbe80-84d7-11ea-8466-95ab33c395be.PNG" alt="Image" height="325" width="385" class="GeneratedImage">
- 
+ <div>
  <body>
   Above are the test results from both Jack and Edward. They show fairly similar characterisitcs towards their personalities. This could suggest that the two have serveral things in common and/or have expereced similar childhoods. Although differences can be seen in there nature, and their ability to cope with emotions. In a group sense where these two individuals are together could mean a better collaboration and overall higher grades.
  
- 
- 
+ </body>
+ </div>
   
   <h2>
   <b> Personal Profiles </b>
