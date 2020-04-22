@@ -341,6 +341,28 @@ With most ideas, there are flaws manifesting throughout the duration of a projec
   
   <h3>Feedback</h3>
   
+  <h4> Edward </h4> 
+  <body> 
+  Jack – Completed the website well and it was easy to connect with Jack. He did not exactly choose his part, as it was the only part left; but, he took his part and delivered well.
+
+Esther – Once having joined the group, Esther quickly took on her task and completed it promptly. Worked well and was responsive.
+
+James – Delivered a great amount of work and quality work quickly. Worked well as a team member and helped with the organisation of the assignment.
+
+<h4> Jack </h4>
+Edward – Edward quickly took leadership got the group into a discord and performed very well with his parts.
+
+Esther – Esther joined the discord around the same time as me, he quickly took a task and completed it, with efficiently.
+
+James – Delivered a sizeable amount of work, which was of the highest quality. He worked very well not only as himself but a team member, providing help to others and pushing for finished work.
+
+
+<h4> James </h4>
+
+<h4> Despina </h4>
+
+</body>
+  
   
   
 
