@@ -114,7 +114,7 @@ One of the most challenging parts of their roles is within the programming side 
   
 <div>
   
-  <b> <h2> Project Ideas </h2 </b>
+  <b> <h2> Project Ideas </h2> </b>
   
   <body>
   <b> <center> <h4> Scholar </b> </center> </h4>
