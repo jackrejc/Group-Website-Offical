@@ -109,14 +109,18 @@ Skills like these are needed to ensure the upkeep on the service involved - Prob
   
   <h3> <b> What are the three highest ranked IT-specific skills which are not in your required skill set? </b> </h3>
   
+  <body>
   Coding and programming appears to be the highest when looking at IT related skills for security related jobs. 
     
     
      <h4> -Project Management </h4>
      <h4> -Building Relationships </h4>
      <h4> -Business Management </h4>
+     </body>
      
       <h3> <b> What are the three highest ranked general skills which are not in your required skill set? </h3> </b>
+      
+      <body>
       
      These skills highlighted are seen as least concern in security or low preference when working in this field. Whilst communication ranks highly, it is also one that is most important when working in a team. Teamwork ranks highly in security as there are teams of people involved to write and develop code around security and communication to keep everyone aligned on tasks.
 Mentoring does help in some long term aspects but the role involved in security is usually learned through the users knowledge around the specific areas in that field. 
@@ -139,7 +143,7 @@ Digital security is always in high demand and is continuously growing. Looking b
 The above graphs displayed shows that Cyber Security requires a highly level of Information Security which is the safety of encrypted data and the protection around it. Whilst the opinion of my ideal job has not changed, looking at similar related job roles like Systems Engineer has similar skills such as monitoring, configuring, testing and maintenance of systems, do come close to the tasks involved with security related work.
 
     
- 
+ </body>
   
   <div>
   
