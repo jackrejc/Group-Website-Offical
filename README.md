@@ -262,9 +262,11 @@ As these bots are smart enough to take on complex language, they are also able t
 
 <div>
 
-<h4> <b> What does it do? What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible? </h4> </b>
+<h4> <b> What does it do? What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible? </b> </h4>
 
 </div>
+
+
 The Cyber Security industry is increasingly growing  and automated data collection is playing a massive role in protecting against data and cyber attacks.This means that everything would get better, become more cost effective, faster and more secure. The progress in this is due to SIEM or Security Information and Event Management. Previously the older SIEM had a limited system in place where it failed to collect most of the relevant data possibly due to technical barriers and made using this service quite costly too.
 
 Usually, these analysts would still need to spend more time and resources checking up on all these security compromises. Cyber security teams would spend time checking to see if these failures were due to malicious attacks or hardware related issues. Malware attacks can create hardware issues as this is known as ‘cryptojacking’ which would cause serious hardware related issues. As these were seen as a very serious issue, and a costly one, research has been done to ensure that hardware related attacks do not happen due to failing servers and cloud systems that make it vulnerable for hackers to gain access to private data.
