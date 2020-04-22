@@ -19,9 +19,9 @@
   
  <h3> Jack </h3>
  
- <img src="https://user-images.githubusercontent.com/62319092/79971623-e733fb00-84d7-11ea-857e-7c40787c1794.PNG" alt="Image" height="325" width="425" class="GeneratedImage">
+ <img src="https://user-images.githubusercontent.com/62319092/79971623-e733fb00-84d7-11ea-857e-7c40787c1794.PNG" alt="Image" height="325" width="385" class="GeneratedImage">
  
- <img src="https://user-images.githubusercontent.com/62319092/79971630-e8fdbe80-84d7-11ea-8466-95ab33c395be.PNG" alt="Image" height="325" width="425" class="GeneratedImage">
+ <img src="https://user-images.githubusercontent.com/62319092/79971630-e8fdbe80-84d7-11ea-8466-95ab33c395be.PNG" alt="Image" height="325" width="385" class="GeneratedImage">
  
  
  
@@ -42,7 +42,7 @@
   My name is James and I have worked in I.T. previously working in marketing for a 3D glasses-less tech company and often to keep in touch with them as I still have friends that work there. My interests have always been in computers and technology and keeping up with new hardware that comes out as I have a keen interest in building and modifying my desktop PC.
 My hobbies include gaming on the computer, overclocking my PC, and simple things like watching sci-fi movies and fishing.
 
- <center> <h4> <b> Despina </b> </h4> </center>
+ 
  <div>
   
 <center>  <h4> <b> Jack </b> </h4> </center>
@@ -52,28 +52,6 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
 
 <div>
   
-
-  <h2> 
-  Idea Jobs
-  </h2>
-  <body>
-
-
-  </body>
-  
-  
-  
-  
-  
-  
-  
-  <div>
-
-  <h2>
-  Tools
-  </h2>
-  
-  <div>
   
   <h2>
   Industry Data
