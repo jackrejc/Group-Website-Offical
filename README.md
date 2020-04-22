@@ -178,7 +178,104 @@ One of the most challenging parts of their roles is within the programming side 
   IT Technologies
   </h2>
   
+  <h3> <b> Clouds, services, servers </b> </h3>
+  
+  <h4> <b> What does it do? What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible?
+ </b> </h4> 
+ 
+  
   <body>
+  A technology that has been worked on and researched for a few years now that will take off in 2020 is Cognitive Cloud Computing. How this works in theory is that it will continuously improve over time using machine learning to come up with an algorithm to give the user more accurate data based on speech to text or searching for media simply instead of manually checking and scanning websites for a period to find the data the user requires. It learns from the actions the user inputs and uses insights from previous search history and results to give the user a better chance at finding information on another search. 
+
+Currently cloud computing services have a large range of options from storage to networking and artificial intelligence as well as office related applications. These options have been around since the early 2000’s and have served the core basics of connectivity between us to deliver messages and data files across computer platforms and servers. 
+
+Businesses using cloud based servers today, help customers by delivering them a service either paid or free by offering a certain amount of storage or unlimited depending on the payment plan to help customers offer a solution to store documents, photos, videos and encrypted passwords due to their high security and promise to consumers that it is safer to use than to store files on a computer or external storage drive. Companies are still to this day using AWS and VMWARE to support their onsite businesses using cloud based servers and hybrid cloud using encryption to keep their files safe. 
+
+Building the infrastructure to support cloud based computing now counts for more than a third of all IT spending worldwide according to research from IDC. Whereas previously business budgets would be put aside for on-site servers or private clouds, however these offered very little security.
+ 
+Where the improvements happen with the cloud, Cognitive Cloud Computing  will continue to improve and learn from data, solve problems to give the user a better and more accurate experience from obtaining information. It does this by extracting insights with artificial intelligence by processing the data, images as so on through machine learning.
+
+At the present moment as of 2020 the big tech companies are investing in Cognitive Cloud Computing. Microsoft, IBM, Google and Cisco have pooled over $13.8 billion dollars in making this happen. The importance of cognitive cloud computing has given businesses the insight to help consumers get access to online data faster and more accurately. 
+
+It is understood that this kind of technology will help consumers benefit from a more advanced method of communication. One important feature Cognitive Computing is the conversing in natural language and have a more human understanding which can lead to smarter applications and improve email by using better spam filters and ultimately have a more “human feel”. It does this by Reading and listening to naturally spoken or written language and a summary of the information.
+
+Smart enough to understand the most complex of user queries and find solutions.
+Listens and comprehends imperfectly spoken commands to help those with language barriers and those who are unable to form perfect sentences. As more and more people switch over to the cloud in time, the machine learning will pick up on data that the user sends through or wishes to request and keeps and understanding of the information that you seek and may offer better search results and will in time understand the person you are and want you are wanting to give you the best options when buying products, checking emails, talking through a microphone to Google.
+
+<h4> <b> What is the likely impact? What is the potential impact of this development? What is likely to change? Which people will be most affected and how? Will this create, replace or make redundant any current jobs or technologies?
+ </b> </h4>
+
+This technology is continuously growing from the current cloud system that we are all using today, development for improved cloud based servers with improved security and features are still in high demand as technology from our devices improves and internet bandwidth gets better over time. 
+
+As improved cloud based systems get better, a stronger need to supply businesses with support, cyber security will always be needed and is continuously growing. The security sector will be in a higher demand to keep up with the growing businesses and those businesses who seek a better cyber infrastructure and a need to support a safer and secure cloud server. 
+
+There will always be jobs for those who work in the I.T. industries who are familiar with and work in cloud systems as the demand for this is growing more people are finding the benefits of storing data to a cloud than the risk of losing physical data on a hard drive. 
+
+These are considered to be an older method to keep data safe and without the education to teach people about the benefits of a stronger cyber ecosystem those who work in this industry are more vulnerable to cyber attacks and businesses may financially suffer due to the system set up for the company. Jobs will continue to grow in this sector and newer innovations will come appear as the drive to create newer security databases. 
+The teams that may be redundant in the future are those that continue to support private cloud support for businesses, that create less secure networks. As businesses research and find out what is best for the company and its customers, an ever improving cloud based system will always be of interest to them.
+
+People who use cloud based services will always have a better outcome than using a physical medium to store data. As more and more people learn the benefits of a secure network and storing personal data, the need for more cloud based services will be in a higher demand. 
+
+
+<h4> <b> How will this affect you? (300 words) In your daily life, how will this affect you? What will be different for you? How might this affect members of your family or your friends?
+ </b> </h4> 
+
+Customer service will be the greatest improvement with friends and family using these services. As the intelligence of Cognitive Cloud Computing improves and is more user friendly - chatbots will be easier to communicate to and relay a message across for it to understand. As they get more intelligent they will be emotionally easier to understand, just by sending a string of text written down for it, it understands and responds normally in an appropriate manner and communicates humanly. 
+
+Eventually companies like telecommunications and web based support companies are currently adopting this technology to save time and money and have a bot do the talking for them which in turn leads towards a better service for the customer. Natural language processing will enable AI enabled virtual service representatives to communicate naturally and solve complex problems for customers. 
+This ease of use will make customers understand that the system does work in their favor and word of mouth spreads the information to those who are also in need to communicate a message across due to a technical support related issue or general enquiry. 
+
+This may also save time for family members if they communicate to a smart bot and will often more than not choose a smart and reliable bot to talk to than to wait and wait continuously for a human to talk to. 
+
+As these bots are smart enough to take on complex language, they are also able to relay the information back in a timely manner and give intelligent hyperlinks for customers to follow through with, text and talk with a bot will solve time, put their lives at ease and will continue to do so as long as the need for cloud based services like these are in high demand just to continue to live an easier life.
+<center>
+<img src="https://user-images.githubusercontent.com/62319092/79950481-77fbde00-84ba-11ea-98fc-6c46fec5c347.png" alt="Image" height="325" width="300" class="GeneratedImage">
+  </center>
+  Above shows an increasing revenue and high demand for Cloud based service across all platform foundations.
+  
+  
+<h2> <b> Cybersecurity </b> </h2>
+
+<h4> <b> What does it do? What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible? </h4> </b>
+
+The Cyber Security industry is increasingly growing  and automated data collection is playing a massive role in protecting against data and cyber attacks.This means that everything would get better, become more cost effective, faster and more secure. The progress in this is due to SIEM or Security Information and Event Management. Previously the older SIEM had a limited system in place where it failed to collect most of the relevant data possibly due to technical barriers and made using this service quite costly too.
+
+Usually, these analysts would still need to spend more time and resources checking up on all these security compromises. Cyber security teams would spend time checking to see if these failures were due to malicious attacks or hardware related issues. Malware attacks can create hardware issues as this is known as ‘cryptojacking’ which would cause serious hardware related issues. As these were seen as a very serious issue, and a costly one, research has been done to ensure that hardware related attacks do not happen due to failing servers and cloud systems that make it vulnerable for hackers to gain access to private data.
+
+
+A Next generation of SIEM has given cyber security experts a better look at reading data in a fast and timely manner. Usually having to look at multiple spreadsheets or writing up customer scripts to make a dashboard, these analysts are able to look at a graphics user interface where they can go through all different kinds of data. This is to help improve the time  to look at large volumes of data. This type of SIEM platform is cloud based. 
+
+Soon over the progressing years, more and more businesses and cloud based systems will have this security in place to protect private data and ensure that the best methods are in check for making sure that cyber security analysts are ahead of the game when having the strongest possible protection in place. Decreasing research and development time for creating a protection in place against malicious attacks will help benefit customers and the business so that the minimalist amount of time possible to repair an attack happens with this new technology in place.
+
+As these systems over time will show newer and newer data, cyber security analysts will be able to check the accuracy of seeing how effective these new implementations are for keeping cloud based systems secure and checking if there are any weakened spots in the protection.
+By simply testing over and over again in the smaller amount of time the analysts are able to check if their methods are working and if there needs to be further improvements down the line that may help improve newer securities that are in place against those malicious attacks.
+
+The technological developments implemented are from previous methods to check and look at different types of data that cybersecurity needs to check to see if their systems and infrastructure is maintained with the latest protection and safeguarding any digital assets. Over time the need to increase security has expanded as digital private information is stored on servers and cloud based systems. To check continuously in the limited amount of time given has only given the desire for cyber security analysts an incentive to boost productivity and find better and faster methods to access data. 
+
+Currently, Microsoft Azure, AWS (Amazon web services) and Google Cloud are utilizing hybrid security that offer this type of intelligence capabilities to help improve their cloud based security.
+Companies like these have always been at the forefront of keeping their digital protection at the highest possible due to customer reputation and keeping other businesses safe as the main cloud platforms used are either with Microsoft, Apple, and Google.
+
+  
+  <h4> <b> What is the likely impact? What is the potential impact of this development? What is likely to change? Which people will be most affected and how? Will this create, replace or make redundant any current jobs or technologies? </h4> </b>
+ 
+ In the next few years these methods of analysing data will also be more labor, time and cost effective and will seem more attractive to those bigger businesses who deal with a lot of customer digital assets. What may happen with businesses is that taking advantage and keeping informed of the dangers of hackers and malicious attackers will help improve the digital ecosystem by practising better methods and keeping cloud related data safe. 
+
+More and more businesses will educate themselves of the latest cyber security methods to keep data safe and implement better work practises to ensure they are up to date and their analysts aware of any new threats that may compromise the data of their customers. Those that will be affected will be customers and businesses if these practises are not in an order of absolute security. 
+The need for cyber security personnel is growing and the data shows that as the technology and cloud based services become a need for most, the security needs to be exceptional. Jobs will continue to grow in this sector as more and more businesses are realizing and taking advantage of these security measures. As the security improves, so does the threat involved and keeping up with the highest level of encryption is essential in ensuring that the digital cyber ecosystem is in control without having it compromised by a malicious attack.
+Businesses that take on a more lax method of keeping data stored on private servers are more vulnerable to attacks due to their lessened  internet presence and not requiring to be updating continuously with the latest information to keep data safe. 
+A more online presence will keep businesses up to date and more informed of potential threats.
+
+  
+  
+  <h4> <b> How will this affect you? In your daily life, how will this affect you? What will be different for you? How might this affect members of your family or your friends? </h4> </b>
+  
+  This is very important for anyone who is using any kind of personal private data stored on any kind of cloud based server. As hackers and malicious attackers know that the majority of people using clouds to store personal photos, media and documentation as well as banking, it becomes clear that the need to attack these clouds for any kind of personal data for financial gain becomes an extremely important issue regarding the security of one's information.
+
+As people use internet banking, cyber security specialists are on standby and checking the code that is in order to keep data safe and protection has not in any way been penetrable. 
+The people around us who use this will be our friends and family as they use clouds to store photos and family to check banking data and make transactions - makes this all the more important if they were to realise that they have no photos or no money in their account due to poor security handling due to poor protection in place of their assets.
+
+As the need for cyber security increases so do the black hat hackers that will do whatever is necessary to obtain funds from innocent people and it is essential that cyber security methods to hold up a barrier with strong code and firewalls in place to ensure that malicious people do not gain access to customer data and to keep preventable methods in place and checking the latest security data is in place.
+
   
   </body>
   
