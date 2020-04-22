@@ -5,7 +5,14 @@
   </h1>
   </center>
   <body>
-  Input Text here  <img src="https://user-images.githubusercontent.com/62319092/79941956-049da080-84a9-11ea-9964-308b99f1ba69.png" alt="Image" height="200" width="200">
+  Input Text here  
+    
+    <img src="https://user-images.githubusercontent.com/62319092/79941956-049da080-84a9-11ea-9964-308b99f1ba69.png" alt="" class="GeneratedImage">
+    
+    <img src="https://user-images.githubusercontent.com/62319092/79943185-960e1200-84ab-11ea-964b-d1c29f06ae71.png" alt="" class="GeneratedImage">
+
+<img src="https://user-images.githubusercontent.com/62319092/79943231-b76efe00-84ab-11ea-8a1c-4112fdf1ffe5.png" alt="" class="GeneratedImage">
+
   </body>
   
   <h2>
