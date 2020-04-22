@@ -118,7 +118,7 @@ Skills like these are needed to ensure the upkeep on the service involved - Prob
      <h4> -Business Management </h4>
      </body>
      
-      <h3> <b> What are the three highest ranked general skills which are not in your required skill set? </h3> </b>
+      <h3> <b> What are the three highest ranked general skills which are not in your required skill set? </b> </h3>
       
       <div>
       
