@@ -69,7 +69,7 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
   <h2>
   Industry Data
   </h2>
-  <h3> Cyber Security </h3>
+  <h3> <b> Cyber Security </h3> </b>
   <body>
   There has always been a demand for security due to the ever growing I.T. industry. Every company that has an information system has always some form of security in place. Whether it is small business with basic Antivirus software in place of a few machines, or larger companies that have small and large teams looking after databases, customer personal information stored on servers. The security of looking after this information is continuously growing as more and more businesses are aware of the importance of keeping data safe from invasive people. 
 
@@ -140,6 +140,7 @@ Leadership can help motivate a team if team morale is low, guidance on certain i
     </div>
     
     
+   
     <h3> <b> Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not? </h3> </b>
     
     <div>
@@ -256,10 +257,13 @@ As these bots are smart enough to take on complex language, they are also able t
   Above shows an increasing revenue and high demand for Cloud based service across all platform foundations.
   
   
-<h2> <b> Cybersecurity </b> </h2>
+<h2> <b> Cybersecurity </h2> </b>
+
+<div>
 
 <h4> <b> What does it do? What is the state of the art of this new technology? What can be done now? What is likely to be able to do be done soon (say in the next 3 years)? What technological or other developments make this possible? </h4> </b>
 
+</div>
 The Cyber Security industry is increasingly growing  and automated data collection is playing a massive role in protecting against data and cyber attacks.This means that everything would get better, become more cost effective, faster and more secure. The progress in this is due to SIEM or Security Information and Event Management. Previously the older SIEM had a limited system in place where it failed to collect most of the relevant data possibly due to technical barriers and made using this service quite costly too.
 
 Usually, these analysts would still need to spend more time and resources checking up on all these security compromises. Cyber security teams would spend time checking to see if these failures were due to malicious attacks or hardware related issues. Malware attacks can create hardware issues as this is known as ‘cryptojacking’ which would cause serious hardware related issues. As these were seen as a very serious issue, and a costly one, research has been done to ensure that hardware related attacks do not happen due to failing servers and cloud systems that make it vulnerable for hackers to gain access to private data.
@@ -279,6 +283,7 @@ Companies like these have always been at the forefront of keeping their digital 
 
   
   <h4> <b> What is the likely impact? What is the potential impact of this development? What is likely to change? Which people will be most affected and how? Will this create, replace or make redundant any current jobs or technologies? </h4> </b>
+  <div>
  
  In the next few years these methods of analysing data will also be more labor, time and cost effective and will seem more attractive to those bigger businesses who deal with a lot of customer digital assets. What may happen with businesses is that taking advantage and keeping informed of the dangers of hackers and malicious attackers will help improve the digital ecosystem by practising better methods and keeping cloud related data safe. 
 
@@ -287,9 +292,10 @@ The need for cyber security personnel is growing and the data shows that as the 
 Businesses that take on a more lax method of keeping data stored on private servers are more vulnerable to attacks due to their lessened  internet presence and not requiring to be updating continuously with the latest information to keep data safe. 
 A more online presence will keep businesses up to date and more informed of potential threats.
 
-  
+  </div>
   
   <h4> <b> How will this affect you? In your daily life, how will this affect you? What will be different for you? How might this affect members of your family or your friends? </h4> </b>
+  <div>
   
   This is very important for anyone who is using any kind of personal private data stored on any kind of cloud based server. As hackers and malicious attackers know that the majority of people using clouds to store personal photos, media and documentation as well as banking, it becomes clear that the need to attack these clouds for any kind of personal data for financial gain becomes an extremely important issue regarding the security of one's information.
 
@@ -299,10 +305,10 @@ The people around us who use this will be our friends and family as they use clo
 As the need for cyber security increases so do the black hat hackers that will do whatever is necessary to obtain funds from innocent people and it is essential that cyber security methods to hold up a barrier with strong code and firewalls in place to ensure that malicious people do not gain access to customer data and to keep preventable methods in place and checking the latest security data is in place.
 
   
-  </body>
   
   
-<div>
+  
+</div>
   
   <b> <h2> Project Ideas </h2> </b>
   <center> <h4> Scholar </h4> </center>
