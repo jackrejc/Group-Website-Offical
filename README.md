@@ -40,9 +40,6 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
 <div>
   Hello! My name is Jack or s3855707. I have been interested in Information technology ever since I could type on a keyboard, play on the first consoles and call on the first iPhone. All throughout high school I was building computers developing databases and studying analytics, most of this was made possible with various courses through school, one being year 8 – 10 IT. My interest for IT has only developed through the years and is continuing to grow further, thanks to this course.
   
-  
-
-</body>
 
 <div>
   
@@ -84,7 +81,7 @@ The below graph shows the increasing market size in the U.S. for cyber security 
 <img src="https://user-images.githubusercontent.com/62319092/79947114-b7bfc700-84b4-11ea-9327-409fa04abf88.PNG" alt="Image" height="325" width="650" class="GeneratedImage">
   </center>
     
-  </div>
+  
   
  <h3> Cryptographer </h3>
  Cryptographers secure computer and information technology systems by constructing algorithms and ciphers to encrypt data. They analyse data, test theories and check for vulnerabilities in information systems.  
@@ -95,6 +92,8 @@ While the demand for this profession is growing, the demand for this job is very
   <center>
 <img src="https://user-images.githubusercontent.com/62319092/79947355-2ef55b00-84b5-11ea-9962-52fdcb445d28.png" alt="Image" height="325" width="650" class="GeneratedImage">
   </center>
+  
+  
     The skills required for Cyber Security and Cryptographers required very specific skills around the maintenance and patching of security data to ensure the safety of data and no hostile breaches to personal data and offer protection to the users that store information on their servers. 
 
 Skills like these are needed to ensure the upkeep on the service involved - Problem solving, programming know-how, risk analysis, strong communication skills, abilities to make decisions in problem solving, critical thinking are essential in these job roles. Employers look for these skills as the ability to work effectively in a team.
@@ -140,7 +139,7 @@ Digital security is always in high demand and is continuously growing. Looking b
 The above graphs displayed shows that Cyber Security requires a highly level of Information Security which is the safety of encrypted data and the protection around it. Whilst the opinion of my ideal job has not changed, looking at similar related job roles like Systems Engineer has similar skills such as monitoring, configuring, testing and maintenance of systems, do come close to the tasks involved with security related work.
 
     
-  </body>
+ 
   
   <div>
   
@@ -171,7 +170,7 @@ One of the most challenging parts of their roles is within the programming side 
     
     
     
-   </body>
+  
   
   <div>
   
@@ -212,7 +211,7 @@ With most ideas, there are flaws manifesting throughout the duration of a projec
   
   
   
-  </body>
+
   
   
   <h3>Feedback</h3>
