@@ -82,6 +82,7 @@ The below graph shows the increasing market size in the U.S. for cyber security 
 <div>
   <center>
 <img src="https://user-images.githubusercontent.com/62319092/79947114-b7bfc700-84b4-11ea-9327-409fa04abf88.PNG" alt="Image" height="325" width="650" class="GeneratedImage">
+  </center>
     
   </div>
   
@@ -91,14 +92,53 @@ While the demand for this profession is growing, the demand for this job is very
 
 
 <div>
+  <center>
 <img src="https://user-images.githubusercontent.com/62319092/79947355-2ef55b00-84b5-11ea-9962-52fdcb445d28.png" alt="Image" height="325" width="650" class="GeneratedImage">
+  </center>
+    The skills required for Cyber Security and Cryptographers required very specific skills around the maintenance and patching of security data to ensure the safety of data and no hostile breaches to personal data and offer protection to the users that store information on their servers. 
+
+Skills like these are needed to ensure the upkeep on the service involved - Problem solving, programming know-how, risk analysis, strong communication skills, abilities to make decisions in problem solving, critical thinking are essential in these job roles. Employers look for these skills as the ability to work effectively in a team.
+
+<div>
+ <h3> <b> How do the general skills in your required skill set rank in terms of demand from employers?  </b> </h3>
+  
+  Communication is essential for any successful team work needed to understand the tasks involved, improve accuracy in their work and can often give higher motivation and encourage team members to add input. Problem solving skills are key in security to give the user and the team a better chance to create better algorithms and ciphers to help keep data secure and to resolve future escalations. 
+  
+  <h4> -Communication Skills </h4>
+  <h4> -Problem Solving </h4>
+  <h4> -Troubleshooting </h4>
+  
+  <h3> <b> What are the three highest ranked IT-specific skills which are not in your required skill set? </b> </h3>
+  
+  Coding and programming appears to be the highest when looking at IT related skills for security related jobs. 
     
     
+     <h4> -Project Management </h4>
+     <h4> -Building Relationships </h4>
+     <h4> -Business Management </h4>
+     
+      <h3> <b> What are the three highest ranked general skills which are not in your required skill set? </h3> </b>
+      
+     These skills highlighted are seen as least concern in security or low preference when working in this field. Whilst communication ranks highly, it is also one that is most important when working in a team. Teamwork ranks highly in security as there are teams of people involved to write and develop code around security and communication to keep everyone aligned on tasks.
+Mentoring does help in some long term aspects but the role involved in security is usually learned through the users knowledge around the specific areas in that field. 
+
+Followed by creativity, code in security can be general by using simple and complex algorithms to piece together data that will help maintain and stabilise a network or cloud based service. Creativity can help make new lines of code that can help certain situations when or if there is a breach in a piece of security and often not making something to help create or compile strings of data to improve or fix something that needs to be resolved urgently. 
+
+Leadership can help motivate a team if team morale is low, guidance on certain issues, shadowing tasks for feedback, and working on personal goals.
+
+     
+     
+     
+     <h4> -Mentoring </h4>
+     <h4> -Creativity </h4>
+     <h4> -Leadership </h4>
     
-    
-    
-    
-    
+    <h3> <b> Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not? </h3> </b>
+    The importance of security in the always growing I.T. Industry is extremely important when factoring in frequent malicious attacks on data systems and hacking of cloud based servers. 
+Digital security is always in high demand and is continuously growing. Looking back at Top Generic Skills at Burning Glass data, problem solving ranks highly as a skill that is required for security jobs. 
+
+The above graphs displayed shows that Cyber Security requires a highly level of Information Security which is the safety of encrypted data and the protection around it. Whilst the opinion of my ideal job has not changed, looking at similar related job roles like Systems Engineer has similar skills such as monitoring, configuring, testing and maintenance of systems, do come close to the tasks involved with security related work.
+
     
   </body>
   
