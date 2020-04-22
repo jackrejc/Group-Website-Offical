@@ -374,6 +374,65 @@ I had thought that It would be easy to communicate as a team however as we are a
 <h4>At least one thing that you have learned about groups </h4>
   I enjoyed working in this group and we all had a very even amount of workload and the ideas shared brought us together on the same page on a lot of topics. 
 
+
+<h2> Bibliography </h2> 
+  
+  <h4> Refrences for IT Technologies and Industry Data </h4>
+  
+ Abi Tyas Tunggal 2020, Why is Cyber Security Important, viewed 16 April 2020,
+<https://www.upguard.com/blog/cybersecurity-important>
+
+
+Grand View Research, Cyber Security Market Size, viewed 17 April 2020,
+<https://www.grandviewresearch.com/industry-analysis/cyber-security-market>
+
+
+Casey Tonkin 2019, Demand Outstrips supply for cyber security experts, viewed 17 April 2020,
+<https://ia.acs.org.au/article/2019/demand-outstrips-supply-for-cyber-security-experts.html>
+
+
+Burning Glass Technologies 2018, Cyber Security Hiring: Every business is different, viewed 17 April 2020,
+<https://www.burning-glass.com/blog/cybersecurity-hiring-every-business-different-cases-different/>
+
+
+Cyber Degrees.org 2020, How to become a Cryptographer, viewed 17 April 2020,
+<https://www.cyberdegrees.org/jobs/cryptographer/>
+
+TechGenix 2018, Must-Have CyberSecurity Skills that make you an indemand expert, viewed 17 April 2020,
+<http://techgenix.com/cybersecurity-skills/>
+
+
+The New Economy 2017, How are cloud and cognitive strategies evolving?, viewed 17 April 2020,
+<https://www.youtube.com/watch?v=ADngV6343BA>
+
+
+
+Steve Ranger, 2018, What is Cloud Computing?, viewed 17 April 2020,
+<https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/>
+
+
+
+Naveen Joshi 2018, The Future of AI in Natural Language Processing, viewed 17 April 2020
+<https://www.allerin.com/blog/the-future-of-ai-in-natural-language-processing>
+
+
+
+
+Melissa Gwaldis 2017, VMware Cloud on AWS: The advantages, disadvantages, and use cases
+Viewed April 17 2020
+<https://blog.shi.com/cloud/vmware-cloud-aws-advantages-disadvantages-use-cases/>
+
+
+Maria Korolov 2020, Promise of Intelligent Cyber security is starting to come true, slowly, Viewed 18 April 2020
+<https://www.datacenterknowledge.com/security/promise-intelligent-cybersecurity-starting-come-true-slowly>
+
+
+Danny Palmer 2020, Cybersecurity warning: 10 ways hackers are using automation, Viewed 18 April 2020
+<https://www.zdnet.com/article/cybersecurity-warning-10-ways-hackers-are-using-automation-to-boost-their-attacks/>
+
+Infosec Resources 2020, What does a Cybersecurity Analyst do? Viewed 18 April 2020
+<https://resources.infosecinstitute.com/category/cybersecurity-careers/how-to-become-a-cybersecurity-analyst/what-does-a-cybersecurity-analyst-do/#gref>
+
   
   
 
