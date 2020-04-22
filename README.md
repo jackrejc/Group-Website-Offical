@@ -142,7 +142,7 @@ Leadership can help motivate a team if team morale is low, guidance on certain i
     
     
    
-    <h3> <b> Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not? </h3> </b>
+    <h3> <b> Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not? </b> </h3>
     
     <div>
     The importance of security in the always growing I.T. Industry is extremely important when factoring in frequent malicious attacks on data systems and hacking of cloud based servers. 
