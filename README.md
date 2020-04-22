@@ -84,6 +84,7 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
   There are various people interacting with IT professionals. Most importantly, the team leader. However, there are instances that involve working with finance teams and marketing teams in order to help achieve a common objective for the company. It is important to be able to interact with all departments as computers and softwares are used non stop to run a company.
   
 <b> <h3>  Where does the IT professional spend most of their time? </b> </h3>
+An IT professional does spend most of his or her time at the desk, on the computer. Most IT roles do involve continuous analysis using the computer and programming is always done via a computer.
 
 <b> <h3> What aspect of their position is most challenging? </b> </h3>
 One of the most challenging parts of their roles is within the programming side of work. In particular, the errors. When code is written incorrectly, the error comes up at launch – when you run the code. Therefore, you are looking for the error and it is rigorous work to be able to find some buried within thousands of lines of code.
