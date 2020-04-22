@@ -19,9 +19,9 @@
   
  <h3> Jack </h3>
  
- <img src="https://user-images.githubusercontent.com/62319092/79971623-e733fb00-84d7-11ea-857e-7c40787c1794.PNG" alt="Image" height="325" width="300" class="GeneratedImage">
+ <img src="https://user-images.githubusercontent.com/62319092/79971623-e733fb00-84d7-11ea-857e-7c40787c1794.PNG" alt="Image" height="325" width="425" class="GeneratedImage">
  
- <img src="https://user-images.githubusercontent.com/62319092/79971630-e8fdbe80-84d7-11ea-8466-95ab33c395be.PNG" alt="Image" height="325" width="300" class="GeneratedImage">
+ <img src="https://user-images.githubusercontent.com/62319092/79971630-e8fdbe80-84d7-11ea-8466-95ab33c395be.PNG" alt="Image" height="325" width="425" class="GeneratedImage">
  
  
  
