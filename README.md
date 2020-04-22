@@ -9,11 +9,11 @@
   </body>
           <h4> James </h4>
     <div>
-    <img src="https://user-images.githubusercontent.com/62319092/79943429-37956380-84ac-11ea-9804-3dc8028268a0.png" alt="Image" height="300" width="280" class="GeneratedImage">
+    <img src="https://user-images.githubusercontent.com/62319092/79943429-37956380-84ac-11ea-9804-3dc8028268a0.png" alt="Image" height="300" width="350" class="GeneratedImage">
     
- <img src="https://user-images.githubusercontent.com/62319092/79943669-c30ef480-84ac-11ea-9ebe-6aa0e68a7ff1.png" alt="Image" height="300" width="280" class="GeneratedImage">
+ <img src="https://user-images.githubusercontent.com/62319092/79943669-c30ef480-84ac-11ea-9ebe-6aa0e68a7ff1.png" alt="Image" height="300" width="350" class="GeneratedImage">
    
-   <img src="https://user-images.githubusercontent.com/62319092/79944477-f0f53880-84ae-11ea-8954-92f9e2c57bc5.png" alt="Image" height="300" width="280" class="GeneratedImage">
+   <img src="https://user-images.githubusercontent.com/62319092/79944477-f0f53880-84ae-11ea-8954-92f9e2c57bc5.png" alt="Image" height="300" width="500" class="GeneratedImage">
 
   
   
