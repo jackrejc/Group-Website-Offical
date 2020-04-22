@@ -69,7 +69,7 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
   <h2>
   Industry Data
   </h2>
-  <h3> <b> Cyber Security </h3> </b>
+  <h3> <b> Cyber Security </b> </h3>
   <div>
   <body>
   There has always been a demand for security due to the ever growing I.T. industry. Every company that has an information system has always some form of security in place. Whether it is small business with basic Antivirus software in place of a few machines, or larger companies that have small and large teams looking after databases, customer personal information stored on servers. The security of looking after this information is continuously growing as more and more businesses are aware of the importance of keeping data safe from invasive people. 
