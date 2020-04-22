@@ -15,6 +15,7 @@
 <body>
   
   <h4> Edward </h4>
+  My name is Edward Glush. Student number s3755136. My background involves a lifetime living in Melbourne, completing VCE and then moving towards a finance degree. I intend on completing my qualification with the Institute of Actuarial Studies and focusing on this for the years to come. 
   
   <h4> James </h4>
   
