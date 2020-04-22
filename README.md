@@ -50,13 +50,8 @@ My hobbies include gaming on the computer, overclocking my PC, and simple things
   <h2> 
   Idea Jobs
   </h2>
-  <h3> Cyber Security </h3>
   <body>
-  There has always been a demand for security due to the ever growing I.T. industry. Every company that has an information system has always some form of security in place. Whether it is small business with basic Antivirus software in place of a few machines, or larger companies that have small and large teams looking after databases, customer personal information stored on servers. The security of looking after this information is continuously growing as more and more businesses are aware of the importance of keeping data safe from invasive people. 
 
-Cyber Security is in a high demand as businesses are understanding the importance of keeping digital data safe.
-
-The below graph shows the increasing market size in the U.S. for cyber security for now and beyond. Cloud based and network security is always in high demand as the number of users of cloud based services are increasing due to the ease of the service and high security in storing data on a cloud.
 
   </body>
   
@@ -77,9 +72,15 @@ The below graph shows the increasing market size in the U.S. for cyber security 
   <h2>
   Industry Data
   </h2>
-  
+  <h3> Cyber Security </h3>
   <body>
-  
+  There has always been a demand for security due to the ever growing I.T. industry. Every company that has an information system has always some form of security in place. Whether it is small business with basic Antivirus software in place of a few machines, or larger companies that have small and large teams looking after databases, customer personal information stored on servers. The security of looking after this information is continuously growing as more and more businesses are aware of the importance of keeping data safe from invasive people. 
+
+Cyber Security is in a high demand as businesses are understanding the importance of keeping digital data safe.
+
+The below graph shows the increasing market size in the U.S. for cyber security for now and beyond. Cloud based and network security is always in high demand as the number of users of cloud based services are increasing due to the ease of the service and high security in storing data on a cloud.
+
+<img src="https://user-images.githubusercontent.com/62319092/79947114-b7bfc700-84b4-11ea-9327-409fa04abf88.PNG" alt="Image" height="350" width="600" class="GeneratedImage">
   </body>
   
   <div>
