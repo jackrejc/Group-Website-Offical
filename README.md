@@ -1,9 +1,9 @@
 <html>
-<center> 
+
   <h1>
   Personal Profiles
   </h1> 
-  </center>
+
 
 <body>
   <h4> Jack </h4>
@@ -23,7 +23,7 @@
   
   <div>
   
-  
+
   <h2> 
   Idea Jobs
   </h2>
@@ -33,5 +33,41 @@
   </body>
   
   <div>
+
+  <h4>
+  Tools
+  </h4>
   
+  <div>
+  
+  <h3>
+  Industry Data
+  </h3>
+  
+  <body>
+  
+  </body>
+  
+  <div>
+  
+  <h3>
+  IT Work
+  </h3>
+    
+   <body>
+    
+   </body>
+  
+  <div>
+  
+  <h3>
+  IT Technologies
+  </h3>
+  
+  <body>
+  
+  </body>
+  
+  
+
   
