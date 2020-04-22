@@ -5,7 +5,7 @@
   </h1>
   </center>
   <body>
-  Input Text here ![](images/James1.png)
+  Input Text here <img src="images/James">
   </body>
   
   <h2>
