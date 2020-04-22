@@ -115,10 +115,8 @@ One of the most challenging parts of their roles is within the programming side 
 <div>
   
   <b> <h2> Project Ideas </h2> </b>
-  
+    <center> <h4> Scholar </center> </h4>
   <body>
-  <b> <center> <h4> Scholar </b> </center> </h4>
-  <div>
   Scholar is Australia’s online tutorial community, bridging the worlds of students and educators.  Whether an individual is a qualified teacher, a mentor, a corporate executive, or even a knowledge-sharing enthusiast, this would be a hub to gain access to a plethora of education-seeking individuals. The idea behind Scholar is to connect all educators to a platform that has students seeking help regarding tuition, assignments, or simple homework help; all via a mobile application on iOS and Android.
 
 The service will have a list of features available for use. Most importantly, the ability to connect with any educator across your respective country that is qualified to teach the subject an individual is seeking help for. Using mobile application technologies, the app will allow a student to upload documents they find confusing or ones that require more thorough understanding, and discuss this with an online educator. The educator will be able to respond to the questions initiated. This will provide a platform for educators to make more money, and students to instantly connect to help; as opposed to paying for expensive tuition lessons and the hassle of organising and waiting for the tutor to have an availability. 
