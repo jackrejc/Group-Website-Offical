@@ -120,7 +120,7 @@ Skills like these are needed to ensure the upkeep on the service involved - Prob
      
       <h3> <b> What are the three highest ranked general skills which are not in your required skill set? </h3> </b>
       
-      <body>
+      <div>
       
      These skills highlighted are seen as least concern in security or low preference when working in this field. Whilst communication ranks highly, it is also one that is most important when working in a team. Teamwork ranks highly in security as there are teams of people involved to write and develop code around security and communication to keep everyone aligned on tasks.
 Mentoring does help in some long term aspects but the role involved in security is usually learned through the users knowledge around the specific areas in that field. 
@@ -136,16 +136,21 @@ Leadership can help motivate a team if team morale is low, guidance on certain i
      <h4> -Creativity </h4>
      <h4> -Leadership </h4>
     
+    
+    </div>
+    
+    
     <h3> <b> Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not? </h3> </b>
+    
+    <div>
     The importance of security in the always growing I.T. Industry is extremely important when factoring in frequent malicious attacks on data systems and hacking of cloud based servers. 
 Digital security is always in high demand and is continuously growing. Looking back at Top Generic Skills at Burning Glass data, problem solving ranks highly as a skill that is required for security jobs. 
 
 The above graphs displayed shows that Cyber Security requires a highly level of Information Security which is the safety of encrypted data and the protection around it. Whilst the opinion of my ideal job has not changed, looking at similar related job roles like Systems Engineer has similar skills such as monitoring, configuring, testing and maintenance of systems, do come close to the tasks involved with security related work.
 
-    
- </body>
+   
   
-  <div>
+  </div>
   
   <h2>
   IT Work
@@ -155,28 +160,41 @@ The above graphs displayed shows that Cyber Security requires a highly level of 
   
   
   <b> <h3> What kind of work is done by the IT professional? </h3> </b>
+  
+  <div>
   An IT professional completes an array of tasks all requiring different methods and software choices. IT work involves knowing a plethora of programming languages that relate to various softwares. For example, Oracle, SQL and C++ may be the languages needed for one role. The work completed daily involves interconnecting job roles well in order to achieve a common objective as a team. Projects are created and must be complete as a team in order to go live by the due date without errors. Working together is definitely one of the most vital part of IT work. 
   
-  
+  </div>
   
   <b> <h3> What kinds of people does the IT professional interact with? Are they IT professionals? </h3> </b>
+  
+   <div>
   There are various people interacting with IT professionals. Most importantly, the team leader. However, there are instances that involve working with finance teams and marketing teams in order to help achieve a common objective for the company. It is important to be able to interact with all departments as computers and softwares are used non stop to run a company.
   
+   </div>
   
   
 <b> <h3>  Where does the IT professional spend most of their time? </h3> </b>
+
+ <div>
 An IT professional does spend most of his or her time at the desk, on the computer. Most IT roles do involve continuous analysis using the computer and programming is always done via a computer.
+
+
+</div>
 
 
 
 <b> <h3> What aspect of their position is most challenging? </h3> </b>
+ <div>
+
+
 One of the most challenging parts of their roles is within the programming side of work. In particular, the errors. When code is written incorrectly, the error comes up at launch – when you run the code. Therefore, you are looking for the error and it is rigorous work to be able to find some buried within thousands of lines of code.
     
     
     
   
   
-  <div>
+  </div>
   
   <h2>
   IT Technologies
