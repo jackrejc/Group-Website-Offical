@@ -437,6 +437,11 @@ Danny Palmer 2020, Cybersecurity warning: 10 ways hackers are using automation, 
 Infosec Resources 2020, What does a Cybersecurity Analyst do? Viewed 18 April 2020
 <https://resources.infosecinstitute.com/category/cybersecurity-careers/how-to-become-a-cybersecurity-analyst/what-does-a-cybersecurity-analyst-do/#gref>
 
+<h4> IT Work </h4>
+
+Glush, A. (2020, April 19th). IT Work. (E. Glush, Interviewer)
+
+
   
   
 
